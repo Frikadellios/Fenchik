@@ -23,6 +23,7 @@
     "@types/react": "^18.0.21",
     "@types/react-dom": "^18.0.6",
     "astro": "^3.1.2",
+    "astro-i18next": "^1.0.0-beta.21",
     "autoprefixer": "^10.4.16",
     "figlet": "^1.6.0",
     "i18n-xlsx": "^0.2.2",
